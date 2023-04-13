@@ -60,7 +60,6 @@ nav ul li a:hover {
 #conteudo{
     width: 710px;
     float: left;
-    background: green;
 }
 
 aside{
@@ -84,12 +83,19 @@ h4{
     text-align: center;
 }
 
+h3{
+    color: #227115;
+    font-size: 1.0em;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
 input{
     height: 20px;
     width: 80px;
     background: #fff;
     border: none;
-    font-size: 1em;
+    font-size: 0.8em;
 }
 
 input.campo{
@@ -130,4 +136,30 @@ section#galeria img{
     margin-left: 2px;
     margin-top: 3px;
 }
+
+article#video{
+    float: left;
+    width: 310px;
+    margin-left: 25px;
+}
+
+article#mapa{
+    float: left;
+    width: 310px;
+    margin-left: 37px;
+}
+
+article#exposicoes{
+    float: left;
+    width: 310px;
+    margin: 15px 0 0 25px;
+    
+}
+article#historia{
+    float: left;
+    width: 310px;
+    margin: 15px 0 0 37px;
+    
+}
+
 
