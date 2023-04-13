@@ -53,3 +53,19 @@ nav ul li a:hover {
     border-bottom: 1px solid #535858;
 }
 
+#logo h1{
+    float: left;
+}
+
+#conteudo{
+    width: 710px;
+    float: left;
+    background: green;
+}
+
+aside{
+    width: 350px;
+    float: right;
+    background: #ebe7dd;
+}
+
